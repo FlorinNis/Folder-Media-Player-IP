@@ -11,6 +11,7 @@ namespace Media_Player
     {
         public static string ShowDialog(string text, string caption)
         {
+            //clasa custom pt. prompturi de input
             Form prompt = new Form()
             {
                 Width = 500,
