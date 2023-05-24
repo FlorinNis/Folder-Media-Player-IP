@@ -1,0 +1,17 @@
+E:\facultate\Proiect IP Media Player\Media Player\bin\Debug\Media Player.exe.config
+E:\facultate\Proiect IP Media Player\Media Player\bin\Debug\Media Player.exe
+E:\facultate\Proiect IP Media Player\Media Player\bin\Debug\Media Player.pdb
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.AssemblyReference.cache
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.exe
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.pdb
+E:\facultate\Proiect IP Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+E:\facultate\Proiect IP Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Forms.FormPlaylist.resources
+E:\facultate\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Forms.MediaPlayer.resources
