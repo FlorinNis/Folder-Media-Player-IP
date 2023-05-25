@@ -99,3 +99,89 @@ C:\Users\Radu\Desktop\Folder-Media-Player-IP-main\Proiect IP Media Player\Media 
 C:\Users\Radu\Desktop\Folder-Media-Player-IP-main\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
 C:\Users\Radu\Desktop\Folder-Media-Player-IP-main\Proiect IP Media Player\Media Player\obj\Debug\Media Player.exe
 C:\Users\Radu\Desktop\Folder-Media-Player-IP-main\Proiect IP Media Player\Media Player\obj\Debug\Media Player.pdb
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Media Player.exe.config
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Media Player.exe
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Media Player.pdb
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Azure.Core.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Azure.Identity.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Buffers.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Memory.Data.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Memory.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.AccessControl.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Permissions.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Text.Json.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.ValueTuple.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Azure.Core.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Azure.Identity.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Buffers.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Memory.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Memory.Data.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Permissions.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Text.Json.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\System.ValueTuple.xml
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.AssemblyReference.cache
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Forms.FormPlaylist.resources
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Forms.MediaPlayer.resources
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.csproj.CopyComplete
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.exe
+C:\Users\flori\Folder-Media-Player-IP\Proiect IP Media Player\Media Player\obj\Debug\Media Player.pdb

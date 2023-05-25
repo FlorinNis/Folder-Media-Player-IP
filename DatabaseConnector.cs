@@ -10,7 +10,7 @@ using Microsoft.Data.SqlClient;
 
 namespace Media_Player
 {
-  
+    //BAGA FINALLY CU CON.CLOSE LA TRY CATCH
     public class DatabaseConnector
     {
         private string _connectionString = ConfigurationManager.ConnectionStrings["DatabaseConnectionString"].ConnectionString;

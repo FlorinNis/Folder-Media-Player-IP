@@ -30,39 +30,65 @@ namespace Media_Player.Forms
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MediaPlayer));
-            this.axWindowsMediaPlayer1 = new AxWMPLib.AxWindowsMediaPlayer();
-            ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).BeginInit();
+            this.VideoPlayer = new AxWMPLib.AxWindowsMediaPlayer();
+            this.lblDuration = new System.Windows.Forms.Label();
+            this.fileName = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.VideoPlayer)).BeginInit();
             this.SuspendLayout();
             // 
-            // axWindowsMediaPlayer1
+            // VideoPlayer
             // 
-            this.axWindowsMediaPlayer1.Enabled = true;
-            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(3, 2);
-            this.axWindowsMediaPlayer1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
-            this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(732, 466);
-            this.axWindowsMediaPlayer1.TabIndex = 0;
-            this.axWindowsMediaPlayer1.Enter += new System.EventHandler(this.axWindowsMediaPlayer1_Enter);
+            this.VideoPlayer.Enabled = true;
+            this.VideoPlayer.Location = new System.Drawing.Point(1, 1);
+            this.VideoPlayer.Margin = new System.Windows.Forms.Padding(2);
+            this.VideoPlayer.Name = "VideoPlayer";
+            this.VideoPlayer.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("VideoPlayer.OcxState")));
+            this.VideoPlayer.Size = new System.Drawing.Size(628, 477);
+            this.VideoPlayer.TabIndex = 0;
+            // 
+            // lblDuration
+            // 
+            this.lblDuration.AutoSize = true;
+            this.lblDuration.ForeColor = System.Drawing.Color.White;
+            this.lblDuration.Location = new System.Drawing.Point(522, 455);
+            this.lblDuration.Name = "lblDuration";
+            this.lblDuration.Size = new System.Drawing.Size(59, 13);
+            this.lblDuration.TabIndex = 1;
+            this.lblDuration.Text = "Duration: 0";
+            // 
+            // fileName
+            // 
+            this.fileName.AutoSize = true;
+            this.fileName.BackColor = System.Drawing.Color.White;
+            this.fileName.Location = new System.Drawing.Point(214, 455);
+            this.fileName.Name = "fileName";
+            this.fileName.Size = new System.Drawing.Size(88, 13);
+            this.fileName.TabIndex = 2;
+            this.fileName.Text = "Currently Playing:";
             // 
             // MediaPlayer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(555, 382);
-            this.Controls.Add(this.axWindowsMediaPlayer1);
+            this.ClientSize = new System.Drawing.Size(631, 477);
+            this.Controls.Add(this.fileName);
+            this.Controls.Add(this.lblDuration);
+            this.Controls.Add(this.VideoPlayer);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MediaPlayer";
             this.Text = "MediaPlayer";
-            ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.VideoPlayer)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private AxWMPLib.AxWindowsMediaPlayer axWindowsMediaPlayer1;
+        private AxWMPLib.AxWindowsMediaPlayer VideoPlayer;
+        private System.Windows.Forms.Label lblDuration;
+        private System.Windows.Forms.Label fileName;
     }
 }

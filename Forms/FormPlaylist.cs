@@ -16,7 +16,7 @@ namespace Media_Player.Forms
         private List<string> _playlists;
         private List<string> _currentPlaylistSongs;
         private string _currentPlaylistName;
-
+        
         private void FormPlaylist_Load_1(object sender, EventArgs e)
         {
             _db = new DatabaseConnector();
@@ -27,7 +27,7 @@ namespace Media_Player.Forms
             InitializeComponent();
         }
 
-        private void LoadPlaylists()
+        public void LoadPlaylists()
         {
             playlistWindow.Items.Clear();
             playlistWindow.Items.Add("- YOUR PLAYLISTS -");
